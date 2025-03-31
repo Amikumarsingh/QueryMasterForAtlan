@@ -25,6 +25,14 @@ This is a React-based application that allows users to write, execute, and manag
 - Queries can be imported as well
 - Responsive
 
+---
+
+## Live Demo
+
+[Click here to view the live demo](https://67eacf7f6b77ac007b1836aa--querymasterforatlan.netlify.app)
+
+---
+
 ## Technologies Used
 
 - **React**: Frontend framework.
@@ -150,3 +158,22 @@ After
 ![alt text](/images/image-3.png)
 ![alt text](/images/image-4.png)
 ![alt text](/images/image-5.png)
+
+Live Demo
+Check out the live demo of the application here:
+QueryMaster Live Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
