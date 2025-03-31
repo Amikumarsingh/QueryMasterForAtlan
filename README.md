@@ -1,5 +1,5 @@
 # Atlan Assignment Submision
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 # React QueryMaster
 
@@ -23,6 +23,7 @@ This is a React-based application that allows users to write, execute, and manag
 - Rows affected shown after query run
 - Clearing  Queries option is also availbale
 - Queries can be imported as well
+- Responsive
 
 ## Technologies Used
 
@@ -35,14 +36,14 @@ This is a React-based application that allows users to write, execute, and manag
 ## Architecture Diagram
 
 The architecture of the application is as follows:
-![alt text](image.png)
+![alt text](/images/image.png)
 
 ---
 
 ## ER Diagram
 
 The ER diagram represents the relationships between the entities in the application:
-![alt text](ER_Diagram.png)
+![alt text](/images/ER_Diagram.png)
 
 ### **Entities**
 
@@ -141,4 +142,11 @@ src/
 - Add More support for exporting query results in different format.
 
 
+### **Screenshots**
+Before
+![alt text](/images/image-2.png)
 
+After
+![alt text](/images/image-3.png)
+![alt text](/images/image-4.png)
+![alt text](/images/image-5.png)
