@@ -28,14 +28,14 @@ function Footer() {
         Query Master | Created with ❤️ by{" "}
         <Button
           as={"a"} // Render the button as a link
-          href="https://www.linkedin.com/in/amit-kumar/" // Replace with the LinkedIn profile URL
+          href="https://www.linkedin.com/in/amitkumarsingh999/" // Replace with the LinkedIn profile URL
           target="_blank" // Open the link in a new tab
           rightIcon={<FaLinkedin />} // Add LinkedIn icon to the button
           color={"black"} // Button text color
           fontWeight={"bold"} // Bold text
           variant="link" // Button style as a link
         >
-          Amit Kumar
+          Amit Kumar Singh
         </Button>
       </Text>
 
